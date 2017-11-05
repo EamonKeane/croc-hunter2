@@ -8,7 +8,7 @@
     "hostname": "croc-hunter.testazaks3.win"
   },
   "container_repo": {
-    "host": "eu.gcr.io",
+    "host": "quay.io",
     "master_acct": "eamonkeane",
     "alt_acct": "eamonkeane",
     "jenkins_creds_id": "fastway-test",
